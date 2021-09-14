@@ -1,0 +1,7 @@
+F:\Git\TestApplication\TestApplication\bin\Debug\TestApplication.exe.config
+F:\Git\TestApplication\TestApplication\bin\Debug\TestApplication.exe
+F:\Git\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+F:\Git\TestApplication\TestApplication\obj\Debug\TestApplication.csprojAssemblyReference.cache
+F:\Git\TestApplication\TestApplication\obj\Debug\TestApplication.csproj.CoreCompileInputs.cache
+F:\Git\TestApplication\TestApplication\obj\Debug\TestApplication.exe
+F:\Git\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
